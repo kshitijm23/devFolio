@@ -1,0 +1,8 @@
+.item2 {
+  margin: 2vh;
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
