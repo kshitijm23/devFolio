@@ -18,17 +18,14 @@
       "link": "https://expressjs.com/"
     },
     {
-      "name": "Nest.JS",
-      "link": "https://nestjs.com/"
+      "name": "MongoDB",
+      "link": "https://www.mongodb.com/"
     },
     {
-      "name": "TypeORM",
-      "link": "https://typeorm.io/#/"
+      "name": "Ionic",
+      "link": "https://ionicframework.com/"
     },
-    {
-      "name": "GraphQL",
-      "link": "https://graphql.org/"
-    },
+    
     {
       "name": "Material UI",
       "link": "https://material-ui.com/"
@@ -44,6 +41,14 @@
     {
       "name": "Firebase",
       "link": "https://firebase.google.com/"
+    },
+    {
+      "name": "Flutter",
+      "link": "https://flutter.dev/"
+    },
+    {
+      "name": "Dart",
+      "link": "https://dart.dev/"
     }
   ]
 }
