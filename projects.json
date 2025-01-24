@@ -2,15 +2,16 @@
   "projects": [
 
     {
-      "name": "Urban Alert - A Reporting Flutter App",
-      "tags": ["Dart", "Flutter", "Public Interest App"],
-      "link": "https://github.com/kshitijm23/Flutter-UAlert"
+      "name": "Urban Alert - A Reporting App",
+      "tags": ["Ionic", "React", "Public Interest App"],
+      "link": "https://github.com/kshitijm23/UrbanAlert"
+      
     },
 
     {
       "name": "Accio Diagon Alley",
       "tags": ["nextjs", "framer motion", "material-ui"],
-      "link": "https://github.com/tejasbhavsar2000/accio-diagon-alley"
+      "link": "https://github.com/kshitijm23/Accio_DiagonAlley"
     },
 
     {
@@ -23,6 +24,12 @@
       "name": "JS Landing Animation for Portfolio",
       "tags": ["JS", "CSS", "HTML"],
       "link": "https://github.com/kshitijm23/Portfolio-2"
+    },
+
+    {
+      "name": "JS-and-CSS-Clock",
+      "tags": ["JS", "CSS", "HTML"],
+      "link": "https://github.com/kshitijm23/JS-and-CSS-Clock"
     }
 
   ]

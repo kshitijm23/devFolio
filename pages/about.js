@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { LinkedIn, GitHub, Twitter, Mail } from "@material-ui/icons/";
+import { LinkedIn, GitHub, Twitter, Mail } from "@mui/icons-material";
 export default function Contact() {
   return (
     <motion.div

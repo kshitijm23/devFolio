@@ -2,9 +2,9 @@ import Link from "next/link";
 import Styles from "@styles/Nav.module.css";
 import Toogle from "@components/Toggle";
 import { motion } from "framer-motion";
-import Home from "@material-ui/icons/HomeRounded";
-import GitHubIcon from "@material-ui/icons/GitHub";
-import TwitterIcon from "@material-ui/icons/Twitter";
+import Home from "@mui/icons-material/HomeRounded";
+import GitHubIcon from "@mui/icons-material/GitHub";
+import TwitterIcon from "@mui/icons-material/Twitter";
 export default function Nav() {
   return (
     <nav
