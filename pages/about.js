@@ -51,7 +51,7 @@ export default function Contact() {
         </div>
         <p>
           and if you are interested , you can take a look at my{" "}
-          <a href="https://drive.google.com/file/d/1RKaK1kO_2FKfOhFz4Zr6xwFFRjlfXhyG/view?usp=drive_link">
+          <a href="https://drive.google.com/file/d/1EmHxJipZpTDCg2R8BGNhPIPcXwxzYFab/view?usp=drive_link">
             resume.
           </a>
         </p>
