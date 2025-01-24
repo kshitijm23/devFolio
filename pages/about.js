@@ -15,7 +15,7 @@ export default function Contact() {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="My name is Tejas Bhavsar and I'm a Learning Fullstack Developer"
+          content="My name is Kshitij Mahajan and I'm a Learning Fullstack Developer"
         ></meta>
       </Head>
       <main>
@@ -26,7 +26,8 @@ export default function Contact() {
           towards Frontend development).{" "}
         </p>
         <p>
-          I'm a self-taught developer with Degree in Computer Engineering. I've
+          I'm a self-taught developer with a Bachelors in Computer Science Engineering
+          and pursuing Masters in Computer Science from Pace University (New York). I've
           always been fascinated by computers and how they work since early age.
           I started my journey with C, later on started working with HTML5, CSS
           & Javascript and got into FullStack Development. Currently I'm most
