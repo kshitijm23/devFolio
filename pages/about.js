@@ -22,10 +22,10 @@ export default function Contact() {
         <h1>/about</h1>
         <h2>Hello !</h2>
         <p>
-        My name is Kshitij Mahajan, and I’m a <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp">Full-Stack Developer</a> with a strong focus on <a href="https://www.geeksforgeeks.org/what-is-frontend-development/">Frontend development</a>.{" "}
+        My name is Kshitij Mahajan, and I’m a <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp" target="_blank">Full-Stack Developer</a> with a strong focus on <a href="https://www.geeksforgeeks.org/what-is-frontend-development/" target="_blank">Frontend development</a>.{" "}
         </p>
         <p>
-         I’m currently pursuing my Master’s in Computer Science at <a href="https://www.pace.edu/">Pace University (New York)</a>, continuously expanding my expertise in modern web technologies and scalable applications.
+         I’m currently pursuing my Master’s in Computer Science at <a href="https://www.pace.edu/" target="_blank">Pace University (New York)</a>, continuously expanding my expertise in modern web technologies and scalable applications.
 
 I’ve always been passionate about building intuitive and performance-driven web applications.{" "} </p>
 <p>
@@ -39,16 +39,16 @@ Currently, I’m most interested in working with React, Next.js, and TypeScript,
 
         <p>You can find me on the following platforms:</p>
         <div>
-          <a href="https://www.linkedin.com/in/kshitij-mahajan-17814221a/">
+          <a href="https://www.linkedin.com/in/kshitij-mahajan-17814221a/" target="_blank">
             <LinkedIn cursor="pointer" />
           </a>
-          <a href="https://github.com/kshitijm23">
+          <a href="https://github.com/kshitijm23" target="_blank">
             <GitHub cursor="pointer" />
           </a>
-          <a href="https://twitter.com/kceee_23">
+          <a href="https://twitter.com/kceee_23" target="_blank">
             <Twitter cursor="pointer" />
           </a>
-          <a href="mailto: kshitijmahajan.ngp@gmail.com">
+          <a href="mailto: kshitijmahajan.ngp@gmail.com" target="_blank">
             <Mail cursor="pointer" />
           </a>
         </div>

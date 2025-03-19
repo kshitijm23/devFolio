@@ -8,7 +8,6 @@
       "name": "Next.JS",
       "link": "https://nextjs.org/"
     },
-
     {
       "name": "Node.JS",
       "link": "https://nodejs.org/en/"
@@ -22,21 +21,12 @@
       "link": "https://www.mongodb.com/"
     },
     {
+      "name": "PostgreSQL",
+      "link": "https://www.postgresql.org/"
+    },
+    {
       "name": "Ionic",
       "link": "https://ionicframework.com/"
-    },
-    
-    {
-      "name": "Material UI",
-      "link": "https://material-ui.com/"
-    },
-    {
-      "name": "Framer-Motion",
-      "link": "https://www.framer.com/motion/"
-    },
-    {
-      "name": "PostgresQL",
-      "link": "https://www.postgresql.org/"
     },
     {
       "name": "Firebase",
@@ -49,6 +39,32 @@
     {
       "name": "Dart",
       "link": "https://dart.dev/"
+    },
+    {
+      "name": "Material UI",
+      "link": "https://mui.com/"
+    },
+    {
+      "name": "Framer-Motion",
+      "link": "https://www.framer.com/motion/"
+    },
+    {
+      "name": "AWS",
+      "link": "https://aws.amazon.com/"
+    },
+    {
+      "name": "Jenkins (CI/CD)",
+      "link": "https://www.jenkins.io/"
+    },
+    
+    {
+      "name": "Jira",
+      "link": "https://www.atlassian.com/software/jira"
+    },
+    
+    {
+      "name": "Geolocation API",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API"
     }
   ]
 }
