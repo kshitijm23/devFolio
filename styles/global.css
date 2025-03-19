@@ -4,8 +4,10 @@
   --bg-dark: rgb(56, 52, 52);
   --color-primary-light: white;
   --color-secondary: rgb(228, 146, 108);
+  --color-skills: rgb(81, 114, 222);
   --font-family-main: "Karla", sans-serif;
   --font-family-heading: "Rubik", sans-serif;
+  --font-family-name: "Bricolage Grotesque", "Bricolage Grotesque Fallback";
 }
 html {
   font-size: 100%;

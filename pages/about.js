@@ -22,17 +22,20 @@ export default function Contact() {
         <h1>/about</h1>
         <h2>Hello !</h2>
         <p>
-          My name is Kshitij Mahajan and I'm a Learning Fullstack Developer (more focused
-          towards Frontend development).{" "}
+        My name is Kshitij Mahajan, and I’m a <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp">Full-Stack Developer</a> with a strong focus on <a href="https://www.geeksforgeeks.org/what-is-frontend-development/">Frontend development</a>.{" "}
         </p>
         <p>
-          I'm a self-taught developer with a Bachelors in Computer Science Engineering
-          and pursuing Masters in Computer Science from Pace University (New York). I've
-          always been fascinated by computers and how they work since early age.
-          I started my journey with C, later on started working with HTML5, CSS
-          & Javascript and got into FullStack Development. Currently I'm most
-          interested working with React, Next.js and Typescript.
-        </p>
+         I’m currently pursuing my Master’s in Computer Science at <a href="https://www.pace.edu/">Pace University (New York)</a>, continuously expanding my expertise in modern web technologies and scalable applications.
+
+I’ve always been passionate about building intuitive and performance-driven web applications.{" "} </p>
+<p>
+My journey began with C and Java, eventually transitioning into HTML, CSS, JavaScript, and full-stack development. Over time, I honed my skills in React, Next.js, and TypeScript, crafting interactive and optimized user experiences.
+
+Some of my most exciting projects include <a>Smart Recipe Hub</a>, an AI-powered recipe recommendation platform that personalizes meal suggestions, and <a>Hearts & Paws</a>, a pet care platform designed to seamlessly connect pet owners with service providers, improving efficiency by 40%.
+
+Currently, I’m most interested in working with React, Next.js, and TypeScript, focusing on building scalable, responsive, and user-friendly applications.{" "}
+        
+</p>
 
         <p>You can find me on the following platforms:</p>
         <div>
@@ -51,7 +54,7 @@ export default function Contact() {
         </div>
         <p>
           and if you are interested , you can take a look at my{" "}
-          <a href="https://drive.google.com/file/d/1EmHxJipZpTDCg2R8BGNhPIPcXwxzYFab/view?usp=drive_link">
+          <a href="https://drive.google.com/file/d/1dG4R-eXR_y8JVVORjpSg5UHH1qqj1-uc/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             resume.
           </a>
         </p>
